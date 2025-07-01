@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Anand Nalang</h1>
-<h3 align="center">Hello! I am Aditya,a passionate Frontend Developer and DevOps Engineer</h3>
+<h3 align="center">Hello! I am Aditya,a passionate Frontend Developer and Data Science Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityan-01&label=Profile%20views&color=0e75b6&style=flat" alt="adityan-01" /> </p>
