@@ -1,4 +1,3 @@
-![Uploading Dec 28, 2025, 04_35_30 PM.png…]()
 
 <h1 align="center">Hi 👋, I'm Aditya Anand Nalang</h1>
 <h3 align="center">Hello! I am Aditya, a passionate Data Analysis / Data Scientist & AI</h3>
